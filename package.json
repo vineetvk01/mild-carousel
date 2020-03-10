@@ -1,0 +1,19 @@
+{
+  "name": "mild-carousel",
+  "version": "1.0.0",
+  "description": "A carousel for new web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineetvk01/mild-carousel.git"
+  },
+  "author": "Vineet Srivastav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vineetvk01/mild-carousel/issues"
+  },
+  "homepage": "https://github.com/vineetvk01/mild-carousel#readme"
+}
